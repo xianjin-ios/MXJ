@@ -9,7 +9,7 @@ cache="cache"
 
 #3、定义".a"静态库保存目录
 #pwd命令：表示获取当前目录
-staticdir=`pwd`/"dream-ffmpeg-iOS"
+staticdir=`pwd`/"ffmpeg-iOS"
 
 #4、添加FFmpeg配置选项->默认配置
 #Toolchain options:工具链选项（指定我么需要编译平台CPU架构类型，例如：arm64、x86等等…）
